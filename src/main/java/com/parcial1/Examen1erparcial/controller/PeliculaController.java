@@ -46,4 +46,5 @@ public class PeliculaController {
     public void delete(@PathVariable Long id) {
         service.delete(id);
     }
+    // pase por aqui, funciona genial.
 }
